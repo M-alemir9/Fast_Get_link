@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FastGet</string>
+    <string name="tab_all">All</string>
+    <string name="tab_downloading">Downloading</string>
+    <string name="tab_completed">Completed</string>
+    <string name="tab_failed">Failed</string>
+
+    <string name="add_download">New Download</string>
+    <string name="enter_url_hint">Enter or paste URL here...</string>
+    <string name="paste_clipboard">Paste</string>
+    <string name="inspecting_url">Inspecting link...</string>
+    <string name="link_verified">Link Verified</string>
+    <string name="range_supported">Multi-part Supported (%d parts)</string>
+    <string name="range_not_supported">Single thread only (No Range)</string>
+    <string name="file_size">File Size: %s</string>
+    <string name="file_type">File Type: %s</string>
+
+    <string name="select_quality">Choose Format / Quality</string>
+    <string name="no_formats_detected">Single direct stream detected</string>
+
+    <string name="parts_slider_title">Parallel Parts (Threads): %d</string>
+    <string name="start_download_btn">Start Download</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+    <string name="action_open">Open File</string>
+
+    <string name="notif_channel_name">Download Manager</string>
+    <string name="notif_channel_desc">Active download progress and controls</string>
+    <string name="notif_downloading">%1$s - %2$s (%3$d%%)</string>
+    <string name="notif_paused">Paused: %1$s</string>
+    <string name="notif_completed">Completed: %1$s</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="max_concurrent">Max Concurrent Downloads</string>
+    <string name="default_chunks">Default Chunk Count</string>
+    <string name="speed_limit">Speed Limit</string>
+    <string name="wifi_only">Download on Wi-Fi only</string>
+    <string name="auto_retry">Auto retry on network error</string>
+</resources>
